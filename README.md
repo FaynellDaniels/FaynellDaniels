@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏾
 
 I’m Faynell, a computer science student exploring software engineering, currently focused on web development.
 
