@@ -2,20 +2,20 @@
 
 I’m Faynell, a computer science student exploring software engineering, currently focused on web development.
 
-# What I’m working on
+What I’m working on:
 - Building small web projects to apply what I’m learning  
 - Strengthening problem-solving and fundamentals  
 - Preparing for internships  
 
-# Tools & technologies
+ Tools & technologies:
 - HTML  
 - CSS  
 - JavaScript   
 - Figma  
 - Git & GitHub  
 
-# How to reach me
+How to reach me:
 - LinkedIn: 
-  
-# Interest:
-gaming 🎮, creative projects, and learning through building.
+
+   Interest:
+Gaming 🎮, Reading, Drawing, Creative Projects, and learning through building.
