@@ -18,4 +18,4 @@ How to reach me:
 - LinkedIn: 
 
    Interest:
-Gaming 🎮, Reading, Drawing, Creative Projects, and learning through building.
+Gaming, Reading, Drawing, Creative Projects, and learning through building.
