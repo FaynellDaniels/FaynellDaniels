@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**FaynellDaniels/FaynellDaniels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I’m Faynell a computer science student exploring software engineering, currently focused on web development.
 
-Here are some ideas to get you started:
+## What I’m working on
+- Building small web projects to apply what I’m learning  
+- Strengthening problem-solving and fundamentals  
+- Preparing for software engineering internships  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & technologies
+- HTML  
+- CSS  
+- JavaScript  
+- Python  
+- Figma  
+- Git & GitHub  
+
+## How to reach me
+- LinkedIn: 
+  
