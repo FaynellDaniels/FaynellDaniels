@@ -15,7 +15,7 @@ What I’m working on:
 - Git & GitHub  
 
 How to reach me:
-LinkedIn: 
+- LinkedIn: 
 
 Interest:
 Gaming, Reading, Drawing, Creative Projects, and learning through building.
