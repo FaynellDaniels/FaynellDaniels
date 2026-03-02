@@ -15,7 +15,7 @@ What I’m working on:
 - Git & GitHub  
 
 How to reach me:
-- [LinkedIn:](linkedin.com/in/faynell-daniels-b71923394) 
+- [LinkedIn](linkedin.com/in/faynell-daniels-b71923394) 
 
 Interest:
 Gaming, Reading, Drawing, Creative Projects, and learning through building.
