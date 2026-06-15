@@ -8,6 +8,7 @@ What I’m working on:
 - Preparing for internships  
 
  Tools & technologies:
+- Python
 - HTML  
 - CSS  
 - JavaScript   
