@@ -1,6 +1,6 @@
 ## Hi there 👋🏾
 
-I’m Faynell, a computer science student exploring software engineering, currently focused on web development.
+I’m Faynell, a computer science student exploring software engineering, currently focused on web development, AI, & Machine Learning.
 
 What I’m working on:
 - Building small web projects to apply what I’m learning  
