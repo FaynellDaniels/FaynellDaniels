@@ -10,9 +10,7 @@ What I’m working on:
  Tools & technologies:
 - Python
 - HTML  
-- CSS  
-- JavaScript   
-- Figma  
+- CSS   
 - Git & GitHub  
 
 
